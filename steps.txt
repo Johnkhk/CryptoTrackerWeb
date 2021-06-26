@@ -1,0 +1,5 @@
+npm:
+npm install @material-ui/core
+npm install material-table
+
+mongodb+srv://drose:<password>@cluster0.d2mrs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
